@@ -2,6 +2,10 @@
 
 Serendipity is a toolbox of utilities for developing Java applications which aim to remove boiler plate code and reducing development time.
 
+## Serendipity Java EE BOM
+
+A Maven Bill of Materials to quickly get you started with Java EE. 
+
 ## Serendipity Java
 
 Features:
