@@ -1,1 +1,4 @@
 /target/
+.classpath
+.atom-maven-classpath
+effective.pom

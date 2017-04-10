@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 
 	<name>Serendipity Java EE BOM</name>
-	<description>A collection of useful things!</description>
+	<description>A collection of useful things for java EE!</description>
 
 	<properties>
 		<cdi-api-version>2.0-EDR1</cdi-api-version>
